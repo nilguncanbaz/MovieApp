@@ -12079,11 +12079,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\TDO0005\\Desktop\\MovieApp\\MovieApp\\MovieApp.csproj",
+      "projectUniqueName": "C:\\Users\\TDO0005\\Documents\\GitHub\\MovieApp\\MovieApp.csproj",
       "projectName": "MovieApp",
-      "projectPath": "C:\\Users\\TDO0005\\Desktop\\MovieApp\\MovieApp\\MovieApp.csproj",
+      "projectPath": "C:\\Users\\TDO0005\\Documents\\GitHub\\MovieApp\\MovieApp.csproj",
       "packagesPath": "C:\\Users\\TDO0005\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\TDO0005\\Desktop\\MovieApp\\MovieApp\\obj\\",
+      "outputPath": "C:\\Users\\TDO0005\\Documents\\GitHub\\MovieApp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
