@@ -28,3 +28,6 @@ C:\Users\TDO0005\Documents\GitHub\MovieApp\obj\Debug\netcoreapp2.2\MovieApp.View
 C:\Users\TDO0005\Documents\GitHub\MovieApp\obj\Debug\netcoreapp2.2\MovieApp.dll
 C:\Users\TDO0005\Documents\GitHub\MovieApp\obj\Debug\netcoreapp2.2\MovieApp.pdb
 C:\Users\TDO0005\Documents\GitHub\MovieApp\obj\Debug\netcoreapp2.2\MovieApp.csproj.CopyComplete
+C:\Users\TDO0005\Documents\GitHub\MovieApp\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_navbar.g.cshtml.cs
+C:\Users\TDO0005\Documents\GitHub\MovieApp\obj\Debug\netcoreapp2.2\Razor\Views\Shared\menu.g.cshtml.cs
+C:\Users\TDO0005\Documents\GitHub\MovieApp\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_footer.g.cshtml.cs
