@@ -24,13 +24,13 @@ namespace MovieApp
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
         public void Configure(IApplicationBuilder app, IHostingEnvironment env)
         {
-            app.UseStaticFiles(); // wwwroot  => /css/style.css  /img/1.jpg
+            app.UseStaticFiles(); // wwwroot
 
             app.UseStaticFiles(new StaticFileOptions
             {
                 FileProvider = new PhysicalFileProvider(Path.Combine(Directory.GetCurrentDirectory(), "node_modules")),
                 RequestPath = "/modules"
-            });
+            });//tarayıcıya açmak istenilen dosyanın tanımlanması
 
             // modules/bootstrap/dist/css/bootstrap.min.css
             if (env.IsDevelopment())
