@@ -1,4 +1,6 @@
+using System.Linq;
 using Microsoft.AspNetCore.Mvc;
+using MovieApp.Data;
 
 namespace MovieApp.Controllers
 {
@@ -27,5 +29,6 @@ namespace MovieApp.Controllers
             //TODO: Implement Realistic Implementation
             return View();
         }
+        
     }
 }

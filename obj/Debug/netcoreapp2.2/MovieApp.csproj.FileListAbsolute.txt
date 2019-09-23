@@ -34,3 +34,4 @@ C:\Users\TDO0005\Documents\GitHub\MovieApp\obj\Debug\netcoreapp2.2\Razor\Views\H
 C:\Users\TDO0005\Documents\GitHub\MovieApp\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_menu.g.cshtml.cs
 C:\Users\TDO0005\Documents\GitHub\MovieApp\obj\Debug\netcoreapp2.2\Razor\Views\Home\Details.g.cshtml.cs
 C:\Users\TDO0005\Documents\GitHub\MovieApp\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Components\CategoryMenu\Default.g.cshtml.cs
+C:\Users\TDO0005\Documents\GitHub\MovieApp\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Search.g.cshtml.cs

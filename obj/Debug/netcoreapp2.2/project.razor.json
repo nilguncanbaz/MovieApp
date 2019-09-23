@@ -3016,6 +3016,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "Views\\Shared\\Search.cshtml",
+      "TargetPath": "Views\\Shared\\Search.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "Views\\Movie\\Details.cshtml",
       "TargetPath": "Views\\Movie\\Details.cshtml",
       "FileKind": "mvc"

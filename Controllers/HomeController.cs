@@ -10,13 +10,14 @@ namespace MovieApp.Controllers
         // /
         public IActionResult Index(int? id)
         {
-            var movies = MovieRepository.Movies;
+        var movies = MovieRepository.Movies;
 
-            if (id != null)
-            {
-                movies = movies.Where(i => i.CategoryId == id).ToList();
-            }
+         if (id != null)
+         {
+             movies = movies.Where(i => i.CategoryId == id).ToList();
+         }
 
+           
             return View(movies);
         }
 
@@ -33,5 +34,13 @@ namespace MovieApp.Controllers
         {
             return View();
         }
+         [HttpGet]
+        public IActionResult Search(string q)
+        {
+            if (string.IsNullOrWhiteSpace(q))
+                return View();
+            return View("Index", MovieRepository.Movies.Where(a => a.Name.Contains(q)));
+        }
+       
     }
 }
